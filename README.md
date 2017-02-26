@@ -1,3 +1,9 @@
+# Web Content for multijoy.co.uk
+
+Mainly as an exercise in using git rather than just ssh'ing and using vim to edit files directly. The site is based on a Moon Jekyll Theme (original readme below, for attribution's sake)
+
+
+
 # Moon Jekyll Theme [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
   
 ## `Sorry guys but there will be no update until I buy a new laptop.`
