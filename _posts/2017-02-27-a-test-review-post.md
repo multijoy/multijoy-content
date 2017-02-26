@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: reviews
 title: "Testing where this comes up in the navigation"
 date: 2017-02-27
 excerpt: "A placeholder to see w'gwain."
-review: true
+reviews: true
 comments: true
 ---
 
